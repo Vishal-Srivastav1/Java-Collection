@@ -19,6 +19,7 @@ public class TestFile {
 			//System.out.println(line);
 			Thread.sleep(100);
 		}
+		 reader.close();
 			
 		}
 

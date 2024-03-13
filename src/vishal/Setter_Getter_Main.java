@@ -46,6 +46,8 @@ public class Setter_Getter_Main {
 		        s2.setSal(s2.getSal()+s2.getSal()*20/100);
 		        System.out.println();System.out.println("Increased sal= "+s2.getSal());
 		
+		     
+		   
 	}
 
 }

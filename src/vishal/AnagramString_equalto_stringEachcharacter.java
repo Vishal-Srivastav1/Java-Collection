@@ -35,7 +35,7 @@ public class AnagramString_equalto_stringEachcharacter {
 		 	isAnagram(a, b);
 		 	//System.out.println(ac);
 		 	
-
+            scanner.close();
 	}
 
 }

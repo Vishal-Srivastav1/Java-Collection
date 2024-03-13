@@ -71,6 +71,7 @@ System.out.println("   O   ");
 				}
 
 	}
+            sc.close();
 		}
 		
 }

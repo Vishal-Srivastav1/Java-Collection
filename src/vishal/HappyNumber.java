@@ -33,6 +33,7 @@ public class HappyNumber {
      int n=sc.nextInt();
      boolean ans=isHappy(n);
      System.out.println(ans);
+     sc.close();
 	}
 
 }

@@ -22,7 +22,9 @@ public class DuckNumber {
         if (isDuck) System.out.println(temp+" it is a Duck Number");
         else
 			System.out.println(temp+" it is not a Duck Number");
-		}
+		
+	scanner.close();
+	}
        
 	}
 
